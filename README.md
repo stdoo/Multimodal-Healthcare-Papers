@@ -28,3 +28,9 @@
 12. [Towards Automatic Generation of Shareable Synthetic Clinical Notes Using Neural Language Models](https://www.aclweb.org/anthology/W19-1905.pdf)
 
 13. [MNN: Multimodal Attentional Neural Networks for Diagnosis Prediction](https://www.ijcai.org/Proceedings/2019/0823.pdf)
+
+## Mimic-III Related ICD-9 code
+
+1. [ICD-9 code for diseases](https://en.wikipedia.org/wiki/List_of_ICD-9_codes)
+
+2. [ICD-9 code for procedures](https://en.wikipedia.org/wiki/ICD-9-CM_Volume_3)
