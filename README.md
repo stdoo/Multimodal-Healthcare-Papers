@@ -10,6 +10,9 @@
 
 5. [Automated Empathy Detection for Oncology Encounters](https://arxiv.org/pdf/2007.00809)
 
+## Google Healthcare Papers
+
+1. [Scalable and accurate deep learning with electronic health records](https://arxiv.org/ftp/arxiv/papers/1801/1801.07860.pdf)
 
 ## Mimic-III Dataset Related
 
