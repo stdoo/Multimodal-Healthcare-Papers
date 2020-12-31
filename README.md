@@ -1,14 +1,19 @@
-# Multimodal-Healthcare-Papers
+## Cross-Modal Contrastive Learning
+1. [UNIMO: Towards Unified-Modal Understanding and Generation via Cross-Modal Contrastive Learning](https://github.com/weili-baidu/UNIMO)
 
-## Survey
+2. [COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning](https://papers.nips.cc/paper/2020/file/ff0abbcc0227c9124a804b084d161a2d-Paper.pdf)
+
+## Multimodal-Healthcare-Papers
+
+### Survey
 
 1. [A guide to deep learning in healthcare](https://pubmed.ncbi.nlm.nih.gov/30617335/)
 
-## NLP
+### NLP
 
 2. [Scalable and accurate deep learning with electronic health records](https://arxiv.org/ftp/arxiv/papers/1801/1801.07860.pdf)
 
-### Mimic-III Dataset Related
+#### Mimic-III Dataset Related
 
 3. [Doctor AI: Predicting Clinical Events via Recurrent Neural Networks](https://arxiv.org/pdf/1511.05942.pdf)
 
@@ -26,7 +31,7 @@
 
 10. [MNN: Multimodal Attentional Neural Networks for Diagnosis Prediction](https://www.ijcai.org/Proceedings/2019/0823.pdf)
 
-### Mimic-III Related ICD-9 code
+#### Mimic-III Related ICD-9 code
 
 1. [ICD-9 code for diseases](https://en.wikipedia.org/wiki/List_of_ICD-9_codes)
 
